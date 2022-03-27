@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 916298e6-ce4f-54aa-b2f4-fdb96cade55c
 resourcetype: Document
 title: vap_mond_csiksze.pdf
 uid: 1467c447-19be-d2ea-5e62-8034d7f52bf0

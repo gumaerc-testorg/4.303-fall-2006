@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 916298e6-ce4f-54aa-b2f4-fdb96cade55c
 resourcetype: Document
 title: vap_mond_selicha.pdf
 uid: 2809b205-4c5c-d954-a202-2a9fd0b7d85d

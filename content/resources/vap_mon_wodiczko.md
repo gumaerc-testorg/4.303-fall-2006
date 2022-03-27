@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 916298e6-ce4f-54aa-b2f4-fdb96cade55c
 resourcetype: Document
 title: vap_mon_wodiczko.pdf
 uid: 2ff0783f-e341-6002-8c61-e4b447ffe42f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 916298e6-ce4f-54aa-b2f4-fdb96cade55c
 resourcetype: Document
 title: vap_mond_stevens.pdf
 uid: 6946ee0c-47c9-59fe-d643-bb047fd8ca18

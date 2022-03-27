@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 916298e6-ce4f-54aa-b2f4-fdb96cade55c
 resourcetype: Document
 title: vap_mond_artigas.pdf
 uid: f8cfcdf1-156e-6335-49a4-af8c48e7e320
