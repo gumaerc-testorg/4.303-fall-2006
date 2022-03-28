@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 916298e6-ce4f-54aa-b2f4-fdb96cade55c
 ---
@@ -38,7 +39,7 @@ September 11, 2006
 Gunther Selichar: Who's afraid of blue, red, and green?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/vap_mond_selicha))
+({{< resource_link 2809b205-4c5c-d954-a202-2a9fd0b7d85d "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP4 - 102MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-11sep2006-selichar.mp4))
@@ -53,7 +54,7 @@ September 18, 2006
 Regina Maria Moeller: Who is speaking?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/vap_mond_moeller))
+({{< resource_link 06d7ae42-8ca7-883b-e6be-da75710bc725 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP4 - 119MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-18sep2006-moehler.mp4))
@@ -68,7 +69,7 @@ November 6, 2006
 Krzysztof Wodiczko: Projections and instrumentations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/vap_mon_wodiczko))
+({{< resource_link 2ff0783f-e341-6002-8c61-e4b447ffe42f "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP4 - 163MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-06nov2006-wodiczko.mp4))
@@ -83,7 +84,7 @@ November 13, 2006
 Gustavo Artigas: Game, risk, disaster
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/vap_mond_artigas))
+({{< resource_link f8cfcdf1-156e-6335-49a4-af8c48e7e320 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP4 - 65MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-13nov2006-gustavo.mp4))
@@ -98,7 +99,7 @@ November 20, 2006
 Chris Csikszentmihalyi: Politechnics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/vap_mond_csiksze))
+({{< resource_link 1467c447-19be-d2ea-5e62-8034d7f52bf0 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP4 - 177MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-20nov2006.mp4))
@@ -113,7 +114,7 @@ November 27, 2006
 Mary Otis Stevens: Archive
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/vap_mond_stevens))
+({{< resource_link 6946ee0c-47c9-59fe-d643-bb047fd8ca18 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP4 - 105MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-27nov2006-stevens.mp4))
