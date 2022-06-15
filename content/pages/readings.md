@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the course readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: d9f9ea86-098a-699a-a0ea-ab156a6d4e85
 ---

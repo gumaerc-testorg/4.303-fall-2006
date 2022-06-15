@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, grading policy, and the schedule of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: de33d201-29be-94fc-25ff-16caf37508d6
 ---
