@@ -5,6 +5,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: group3.pdf
 uid: a2668a89-a276-800f-e094-bb22ac6f0a11
 ---
 This resource contains a midterm project on time-based space psychogeography.
-

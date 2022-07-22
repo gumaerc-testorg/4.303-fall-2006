@@ -6,6 +6,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: group2_pres.pdf
 uid: c649c23c-607f-c4c5-0930-3792ac9a5046
 ---
 This resource contains a presentation for a class project: Mapping South Station.
-

@@ -6,6 +6,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: group3_text.pdf
 uid: fc4d5559-5e04-53c5-18a2-facc0b18db2e
 ---
 This resource contains a class project: Home of Memory/ Memory of Home... Homember It.
-

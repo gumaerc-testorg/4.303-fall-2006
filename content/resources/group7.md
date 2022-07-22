@@ -5,6 +5,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: group7.pdf
 uid: b2ded567-5062-0596-3ff9-47f51b2df662
 ---
 This resource contains a class project: Folds in Time and Space.
-

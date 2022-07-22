@@ -5,6 +5,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: group4.pdf
 uid: f1b92a01-ca18-fccf-41b3-4a0764b0d23c
 ---
 This resource contains a class project: reach out and map someone.
-

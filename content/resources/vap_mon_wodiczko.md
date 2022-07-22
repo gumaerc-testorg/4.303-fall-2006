@@ -7,6 +7,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: vap_mon_wodiczko.pdf
 uid: 2ff0783f-e341-6002-8c61-e4b447ffe42f
 ---
 This resource contains a poster for the lecture on projections and instrumentations by Krzysztof Wodiczko to inspire and assist the users-animators in developing, perfecting, and ?projecting? their voice and gestures in public space.
-

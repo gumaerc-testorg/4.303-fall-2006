@@ -6,6 +6,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: group7_pres.pdf
 uid: 07efeb72-13d0-f11a-3fe7-17f30f14a595
 ---
 This resource contains a presentation for a class project: Stata Center: Remixed.
-

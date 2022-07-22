@@ -5,6 +5,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vap_mond_artigas.pdf
 uid: f8cfcdf1-156e-6335-49a4-af8c48e7e320
 ---
 This resource contains a poster for a guest lecture by Gustavo Artigas.
-

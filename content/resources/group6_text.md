@@ -6,6 +6,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: group6_text.pdf
 uid: 142296fb-621b-445a-54c6-5aaff659c2a2
 ---
 This resource contains a class project: Of Cognizance and Disruption: Obstruction in the Infinite Corridor.
-

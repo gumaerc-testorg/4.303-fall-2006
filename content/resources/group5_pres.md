@@ -6,6 +6,7 @@ file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-di
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: group5_pres.pdf
 uid: abc188b4-e0cc-2f48-e0cd-4940ad8e8c31
 ---
 This resource contains a class project: Mass. ave. : Orientation and Humanization.
-
