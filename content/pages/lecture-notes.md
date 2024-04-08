@@ -11,7 +11,7 @@ uid: 916298e6-ce4f-54aa-b2f4-fdb96cade55c
 
 Throughout the semester, guest lecturers spoke to the class and were recorded. Those lectures are presented here along with the posters describing the lectures.
 
-These videos are also available from [VideoLectures.net](http://videolectures.net/mit4303f06_production_space/).
+These videos are also available from {{% resource_link "de5ffdb4-2929-459d-9838-53a0599db91c" "VideoLectures.net" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -43,7 +43,7 @@ Gunther Selichar: Who's afraid of blue, red, and green?
 ({{% resource_link 2809b205-4c5c-d954-a202-2a9fd0b7d85d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 102MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-11sep2006-selichar.mp4))
+({{% resource_link "6b028e7d-9ae0-4bd9-ba84-3451eadcd0ea" "MP4 - 102MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +58,7 @@ Regina Maria Moeller: Who is speaking?
 ({{% resource_link 06d7ae42-8ca7-883b-e6be-da75710bc725 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 119MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-18sep2006-moehler.mp4))
+({{% resource_link "59c46bd9-2ca0-446b-8afc-2ef950fb6b18" "MP4 - 119MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +73,7 @@ Krzysztof Wodiczko: Projections and instrumentations
 ({{% resource_link 2ff0783f-e341-6002-8c61-e4b447ffe42f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 163MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-06nov2006-wodiczko.mp4))
+({{% resource_link "2a65c990-c3e3-4ef3-825e-4232b61b70f7" "MP4 - 163MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ Gustavo Artigas: Game, risk, disaster
 ({{% resource_link f8cfcdf1-156e-6335-49a4-af8c48e7e320 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 65MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-13nov2006-gustavo.mp4))
+({{% resource_link "30ef1e52-c587-4193-996b-ce6280be4207" "MP4 - 65MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ Chris Csikszentmihalyi: Politechnics
 ({{% resource_link 1467c447-19be-d2ea-5e62-8034d7f52bf0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 177MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-20nov2006.mp4))
+({{% resource_link "87920567-d8e9-40bd-96c0-24f98b11ddc3" "MP4 - 177MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +118,7 @@ Mary Otis Stevens: Archive
 ({{% resource_link 6946ee0c-47c9-59fe-d643-bb047fd8ca18 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 105MB](http://www.archive.org/download/MIT4.303F06/ocw-4.303-27nov2006-stevens.mp4))
+({{% resource_link "60285d4d-9e09-49a5-8a02-fd5c8833ef5e" "MP4 - 105MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
