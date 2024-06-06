@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains a class project: reach out and map someone.'
 file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/f1b92a01ca18fccf41b34a0764b0d23c_group4.pdf
+file_size: 2272469
 file_type: application/pdf
 learning_resource_types:
 - Projects

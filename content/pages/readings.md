@@ -10,9 +10,9 @@ uid: d9f9ea86-098a-699a-a0ea-ab156a6d4e85
 
 The readings for the class are presented below.
 
-{{% resource_link "1efe51dd-e2ed-4d94-8557-22bcf2d551cc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hayden, Dolores. "The Sense of Place and the Politics of Space." In {{% resource_link "1efe51dd-e2ed-4d94-8557-22bcf2d551cc" "_The Power of Place: Urban Landscapes as Public History_" %}}. Cambridge, MA: MIT Press, 1995, pp. 14-29. ISBN: 9780262581523.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581523) Hayden, Dolores. "The Sense of Place and the Politics of Space." In [_The Power of Place: Urban Landscapes as Public History_](https://mitpress.mit.edu/9780262581523). Cambridge, MA: MIT Press, 1995, pp. 14-29. ISBN: 9780262581523.
 
-{{% resource_link "37c33962-161e-407a-9cac-f96936ce326f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hollier, Denis. "Introduction: Bloody Sundays." In {{% resource_link "37c33962-161e-407a-9cac-f96936ce326f" "_Against Architecture: The Writings of Georges Bataille_" %}}. Translated by Betsy Wing. Cambridge, MA: MIT Press, 1989, pp. ix-xxiii. ISBN: 9780262581134.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581134) Hollier, Denis. "Introduction: Bloody Sundays." In [_Against Architecture: The Writings of Georges Bataille_](https://mitpress.mit.edu/9780262581134). Translated by Betsy Wing. Cambridge, MA: MIT Press, 1989, pp. ix-xxiii. ISBN: 9780262581134.
 
 White, Hayden. "Review of The Production of Space by Henri Lefebvre." _Design Book Review_ 29/30 (Summer/Fall 1993): 90-93.
 
@@ -30,7 +30,7 @@ De Certeau, Michel. "The Black Sun of Language: Foucault" pp. 171-183, and "Micr
 
 Deutsche, Rosalyn. "Maenner im Raum." In _Stadt-Raeume_ . Edited by Martin Wentz. New York, NY: Verlag, 1991, pp. 91-97. ISBN: 9783421053626.
 
-{{% resource_link "b9058f12-f188-44ca-9704-6db4942074ae" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fraser, Nancy. "Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy." In {{% resource_link "b9058f12-f188-44ca-9704-6db4942074ae" "_Habermas and the Public Sphere_" %}}. Edited by Craig Calhoun. Cambridge, MA: MIT Press, 1992, pp. 109-142. ISBN: 9780262531146.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531146) Fraser, Nancy. "Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy." In [_Habermas and the Public Sphere_](https://mitpress.mit.edu/9780262531146). Edited by Craig Calhoun. Cambridge, MA: MIT Press, 1992, pp. 109-142. ISBN: 9780262531146.
 
 Jacobs, Jane M. "(Post)colonial Spaces." In _Edge of Empire: Postcolonialism and the City_. New York, NY: Routledge, 1996, pp. 13-37. ISBN: 9780415120074.
 
@@ -46,7 +46,7 @@ Habermas, Jurgen. _The Theory of Communicative Action_. Translated by Thomas McC
 
 Lefebvre, Henri. _Everyday Life in the Modern World_. Translated by Sacha Rabinovitch. New York, NY: Harper & Row, 1971. ISBN: 9780878559725.
 
-{{% resource_link "29f14287-2101-4c0d-8133-8cfa9a6cdda1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} De Zegher, Catherine, and Mark Wigley, eds. {{% resource_link "29f14287-2101-4c0d-8133-8cfa9a6cdda1" "_The Activist Drawing: Retracing Situationist Architectures from Constant's New Babylon to Beyond_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262041911.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262041911) De Zegher, Catherine, and Mark Wigley, eds. [_The Activist Drawing: Retracing Situationist Architectures from Constant's New Babylon to Beyond_](https://mitpress.mit.edu/9780262041911). Cambridge, MA: MIT Press, 2001. ISBN: 9780262041911.
 
 Croset, Pierre-Alain. "The Narration of Architecture." In _Architecture Production_. Edited by Beatriz Colomina. New York, NY: Princeton Architectural Press, 1988, pp. 201-211. ISBN: 9780910413206.
 
