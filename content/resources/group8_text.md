@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains a class project: Space Invaders.'
 file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/73a32ac10404fbc242b2731a8270876c_group8_text.pdf
+file_size: 23990
 file_type: application/pdf
 learning_resource_types:
 - Projects
