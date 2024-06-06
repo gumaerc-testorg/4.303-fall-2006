@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains a class project: Dimensional Voices.'
 file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/a8746a52f0965767e1832f252c7ffd96_group7_text.pdf
+file_size: 109338
 file_type: application/pdf
 learning_resource_types:
 - Projects
