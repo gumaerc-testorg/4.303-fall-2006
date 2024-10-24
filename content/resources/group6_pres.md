@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains slides on a student project: Of Cognizance and
   Disruption: Obstruction in the Infinite Corridor.'
-file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/bea9de4f9d386c4865d663b799c7e483_group6_pres.pdf
+file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/bea9de4f9d386c4865d663b799c7e483_group6_pres.pdf
 file_size: 198792
 file_type: application/pdf
 learning_resource_types:
