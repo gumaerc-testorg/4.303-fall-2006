@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a poster for a guest lecture by Chris Csikszentmihalyi.
-file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/1467c44719bed2ea5e628034d7f52bf0_vap_mond_csiksze.pdf
+file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/1467c44719bed2ea5e628034d7f52bf0_vap_mond_csiksze.pdf
 file_size: 54849
 file_type: application/pdf
 learning_resource_types:

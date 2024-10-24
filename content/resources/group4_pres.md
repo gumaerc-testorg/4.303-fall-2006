@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains slides on a student project: reach out and map
   someone.'
-file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/f57b07fe16243e86aef6bb71d683c73e_group4_pres.pdf
+file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/f57b07fe16243e86aef6bb71d683c73e_group4_pres.pdf
 file_size: 5192234
 file_type: application/pdf
 learning_resource_types:
