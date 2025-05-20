@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a class project: Mass. ave. : Orientation and
   Humanization.'
-file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/abc188b4e0cc2f48e0cd4940ad8e8c31_group5_pres.pdf
+file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/abc188b4e0cc2f48e0cd4940ad8e8c31_group5_pres.pdf
 file_size: 9631500
 file_type: application/pdf
 learning_resource_types:

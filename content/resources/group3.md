@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a midterm project on time-based space psychogeography.
-file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/a2668a89a276800fe094bb22ac6f0a11_group3.pdf
+file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/a2668a89a276800fe094bb22ac6f0a11_group3.pdf
 file_size: 428042
 file_type: application/pdf
 learning_resource_types:

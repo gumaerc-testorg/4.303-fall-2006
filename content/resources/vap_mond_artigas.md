@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a poster for a guest lecture by Gustavo Artigas.
-file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/f8cfcdf1156e633549a4af8c48e7e320_vap_mond_artigas.pdf
+file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/f8cfcdf1156e633549a4af8c48e7e320_vap_mond_artigas.pdf
 file_size: 65051
 file_type: application/pdf
 learning_resource_types:
