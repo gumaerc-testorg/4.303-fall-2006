@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a presentation for a class project: Orientation
   by Absence, Phenomenological Exploration of Heterotopic Site.'
-file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/878dff48ba3b7f9d3e64090310d02ec9_group1_pres.pdf
+file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/878dff48ba3b7f9d3e64090310d02ec9_group1_pres.pdf
 file_size: 6807648
 file_type: application/pdf
 learning_resource_types:
