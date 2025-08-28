@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains a class project: Space Invasion.'
-file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/088f1f25c780ec1c30d79251c98e46b1_group8.pdf
+file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/088f1f25c780ec1c30d79251c98e46b1_group8.pdf
 file_size: 557244
 file_type: application/pdf
 learning_resource_types:
