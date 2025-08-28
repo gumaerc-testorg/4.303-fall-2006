@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a class project on the conceptual exploration
   of the heterotopic spaces of MIT.
-file: /courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/e010ebfff344856ff0349e32d60e0f52_group1_text.pdf
+file: /ol-ocw-studio-app/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/e010ebfff344856ff0349e32d60e0f52_group1_text.pdf
 file_size: 295668
 file_type: application/pdf
 learning_resource_types:
